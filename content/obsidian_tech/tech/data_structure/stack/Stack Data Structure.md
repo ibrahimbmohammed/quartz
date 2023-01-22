@@ -1,0 +1,1 @@
+The Stack Data Structure is a type of abstract data structure data organizes data in a  collection of elements, with two main operations: Push, which adds an element to the collection, and Pop, which removes the most recently added element that was not yet removed, 

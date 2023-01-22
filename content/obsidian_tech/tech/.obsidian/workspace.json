@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "e33a77bff67992b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5702f3e44b369788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b64426d1f7f58c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my_daily/2023-01-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5c749f998a0fc73",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b19dc64e131a9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a99a799fa7f55d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c984d491f8a0bee2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo/work",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6affb80ccbb0008d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "05223d74125e0692",
+    "type": "split",
+    "children": [
+      {
+        "id": "a083f3eea9e2ba8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701e0521848404a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "my_daily/2023-01-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1485eeae290d471",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "my_daily/2023-01-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fc0e990bc163945",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f5372b18fda544f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "my_daily/2023-01-22.md"
+              }
+            }
+          },
+          {
+            "id": "cd62ad7fa8b88e0b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "032a85dfc1fa0237",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d7aed70490dea88",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b64426d1f7f58c1",
+  "lastOpenFiles": [
+    "my_daily/2023-01-21.md",
+    "my_daily/2023-01-20.md",
+    "next/Improve React Performance.md",
+    "Excalidraw/c_memory_layout.md",
+    "c_pro_lang/2_c_arith_&_type_casting.md",
+    "c_pro_lang/1_c_variables_&_data_Types.md",
+    "c_pro_lang/0_c_init.md",
+    "c_pro_lang/c_books/C Programming __ The Ultimate Way to Learn The Fundamentals of The C Language. ( PDFDrive ).pdf",
+    "my_daily/2023-01-19.md",
+    "templates/Daily.md"
+  ]
+}

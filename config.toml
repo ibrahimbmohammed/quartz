@@ -1,4 +1,4 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://ibrahimbmohammed.github.io/quartz/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
@@ -6,6 +6,7 @@ disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
+    "/content/obsidian_tech/tech/my_daily/*"
 ]
 summaryLength = 20
 paginate = 10
