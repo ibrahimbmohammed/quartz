@@ -1,3 +1,8 @@
+---
+title: 🪴  C thrid note.
+enableToc: false
+---
+
 valid arithimetic operators in c consists of.
 
 ```c
@@ -10,10 +15,9 @@ valid arithimetic operators in c consists of.
 // -- (decrement)
 ```
 
+### Data type casting
 
-### Data type casting 
-
-When performing an arithimetic operation, the result gets influenced by the data type selected of the calculation. 
+When performing an arithimetic operation, the result gets influenced by the data type selected of the calculation.
 
 ```c
 int x = 5;
@@ -45,6 +49,5 @@ x += 1
 
 // this holds true for all arithimetic operators.
 ```
-
 
 ### Bold header
