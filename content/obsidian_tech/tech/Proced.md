@@ -178,3 +178,5 @@ Please note that this is a sample slide and it should be customized to the speci
 thank you
 
 You're welcome! I'm glad I could help. Let me know if you have any other questions or if there's anything else I can assist you with.
+
+https://ibrahimbmohammed.github.io/quartz/

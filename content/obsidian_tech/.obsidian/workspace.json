@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/debug/debug init.md",
+                "file": "tech/Proced.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/debug/debug init.md",
+                "file": "tech/Proced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/debug/debug init.md",
+                "file": "tech/Proced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/debug/debug init.md"
+                "file": "tech/Proced.md"
               }
             }
           }
@@ -147,5 +147,9 @@
     }
   },
   "active": "ea0baaae37b81715",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "tech/my_daily/2023-01-22.md",
+    "tech/Proced.md",
+    "tech/debug/debug init.md"
+  ]
 }
